@@ -1,0 +1,14 @@
+{
+    "wit_token": "Z66MZ5V237BRKST65W5O2HAZVXP3OXEZ",
+    "slack_token": "xoxb-34370163136-HAbb7uQh7tM2ZuGmEQ9TwEby",
+    "URL":"http://10.110.8.42:8080",
+
+    "opsbot_id": "U0P4RS18S",
+    "error_channel_id": "polhedel",
+    "general_channel": "C0Y5EJJM8",
+    "random_channel": "C0Y51NPQ8",
+    "testing_channel": "C11U81AQ2",
+    "jira_host":"http://7.110.100.206:8080",
+    "jira_username":"becarioAbsis",
+    "jira_password":"becarioAbsis"
+  }
